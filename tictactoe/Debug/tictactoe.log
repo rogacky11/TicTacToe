@@ -1,0 +1,10 @@
+﻿  tictactoe.cpp
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(136,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(137,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(157,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(158,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(179,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(180,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(205,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\tictactoe\tictactoe\tictactoe.cpp(206,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  tictactoe.vcxproj -> C:\Users\Michał\source\repos\tictactoe\Debug\tictactoe.exe
